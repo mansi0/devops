@@ -1,8 +1,8 @@
-create table Student (
+create table studentData (
 Name varchar(50),
-Roll_no int,
+Roll_no integer,
 Address varchar(200),
-Mobile_Number int,
+Mobile_Number integer,
 PAN_Number Varchar(13));
 
 
